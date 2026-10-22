@@ -1,0 +1,8 @@
+# Personal account rules and metrics. Never commit these.
+config/account.md
+data/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
